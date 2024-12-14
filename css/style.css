@@ -38,17 +38,24 @@ h1{
   color:black ;
   text-align: center;
 }
+h2{
+  color:#2b2828;
+  font-size: 110%px;
+}
 
 p{
   font-size: xx-large;
   text-align: justify;
   color: white;
 }
-img{
-  border-radius:15%;
-}
+
 body{
   background-color:rgb(102, 182, 239);
+}
+li{
+  font-size:large;
+  text-align:left;
+  color:white;
 }
 #rature{
   text-decoration:line-through;
@@ -171,5 +178,10 @@ input[type=submit]:hover {
  .itinéraire{
   border-radius:15%;
  }
+.hotel{
+  display:inline;
+  border-radius:15%;
+  width:20%;
+  height:20%;
 
- 
+}
