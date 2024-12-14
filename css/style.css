@@ -44,6 +44,9 @@ p{
   text-align: justify;
   color: white;
 }
+img{
+  border-radius:15%;
+}
 body{
   background-color:rgb(102, 182, 239);
 }
@@ -168,5 +171,5 @@ input[type=submit]:hover {
  .itinéraire{
   border-radius:15%;
  }
- 
+
  
