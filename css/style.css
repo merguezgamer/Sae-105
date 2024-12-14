@@ -54,20 +54,31 @@ body{
   font-size: medium;
   display:inline-flex;
 }
-.text_index{
+.boite{
   background-color: #f0f0f0;
   margin-top: 5%;
   margin-left: 5%;
   margin-right: 5%;
   box-shadow: 12px 12px 5px  rgba(112, 112, 112);
   padding: 3%;
+  padding-top: 1%;
 }
 .flex_img{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
 }
-
+iframe{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 400px;
+  width: 75%;
+}
+button{
+width: 100%;
+}
 /*css formulaire*/
 /*style des zone de texte */
 input[type=text], select, textarea {
@@ -174,13 +185,13 @@ input[type=submit]:hover {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
- .Tour_eiffel{
+.Tour_eiffel{
   border-radius:20%;
 
- }
+}
 
- .itinéraire{
+.itinéraire{
   border-radius:15%;
- }
+}
 
  
