@@ -160,3 +160,13 @@ input[type=submit]:hover {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
+ .Tour_eiffel{
+  border-radius:20%;
+
+ }
+
+ .itinéraire{
+  border-radius:15%;
+ }
+ 
+ 
